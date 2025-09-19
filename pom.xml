@@ -315,6 +315,7 @@
     <archiver.recompressZippedFiles>true</archiver.recompressZippedFiles>
 
     <japicmp.skip>true</japicmp.skip>
+    <sonar.organization>vikrant1717</sonar.organization>
   </properties>
 
   <profiles>
